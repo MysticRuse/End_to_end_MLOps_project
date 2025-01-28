@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "End_to_end_MLOPS_project"
 AUTHOR_USER_NAME = "MysticRuse"
-SRC_REPO = "MLOPS_project"
+SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "mitil.roy@gmail.com"
 
 
